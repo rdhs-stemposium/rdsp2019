@@ -12,5 +12,5 @@ The wesbite design was created by RDHS Alumni [Michael Vasile](https://github.co
 The devs would like to extend their gratitude to:
 - Dr. Chin Chu - Instructor of Science Research
 - Mrs. Lorraine Brooks - Principal of RDHS
-- Mr. Jeff Principe & Dr. Jennifer Chatmon - Vice Principals of RDHS
+- Mr. Jeff Principe - Vice Principal of RDHS
 - Mrs. Marianthe Williams - District Supervisor of Technology
